@@ -3,7 +3,7 @@
 
 
 
-:man_student: Student of Analysis and Systems Development by CATOLICASC university
+<h3>:man_student:</h3> Student of Analysis and Systems Development by CATOLICASC university
 
 
 
